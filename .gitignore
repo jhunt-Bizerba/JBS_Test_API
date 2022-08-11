@@ -1,0 +1,7 @@
+bin/
+obj/
+/packages/
+/.vs
+/Production/.vs
+/Setup/MowiCodeItIntegration-cache
+/Setup/MowiCodeItIntegration-SetupFiles
